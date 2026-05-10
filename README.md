@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:7b2ff7&height=220&section=header&text=WebSource%20Downloader%20API&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Download%20%26%20Zip%20Any%20Website%20Source%20Code&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:7b2ff7&height=220&section=header&text=WEB-2-ZIP&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Download%20Any%20Website%20Source%20Code%20as%20ZIP&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF512F&center=true&vCenter=true&width=900&lines=WebSource+Downloader+API+%F0%9F%9A%80;Download+Any+Website+Source+Code+%F0%9F%93%A6;FastAPI+%7C+AsyncIO+%7C+AioHTTP+%F0%9F%94%A5;Zip+HTML+CSS+JS+Images+Fonts+Automatically+%E2%9A%A1;Vercel+Ready+%7C+Termux+Ready+%F0%9F%93%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF512F&center=true&vCenter=true&width=900&lines=WEB-2-ZIP+%F0%9F%9A%80;Download+Any+Website+Source+Code+Instantly+%F0%9F%93%A6;FastAPI+%7C+AioHTTP+%7C+AsyncIO+Powered+%F0%9F%94%A5;Download+HTML+CSS+JS+Images+Fonts+Automatically+%E2%9A%A1;Vercel+Ready+%7C+Termux+Ready+%F0%9F%93%B1" alt="Typing SVG" />
 
 <br><br>
 
@@ -12,12 +12,13 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![AsyncIO](https://img.shields.io/badge/AsyncIO-Ultra_Fast-7b2ff7?style=for-the-badge)
 ![AioHTTP](https://img.shields.io/badge/AioHTTP-Downloader-ff0000?style=for-the-badge)
+![ZIP](https://img.shields.io/badge/ZIP-Generator-ff512f?style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-Ready-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-00ff99?style=for-the-badge)
 
 <br>
 
-> **🌐 Download complete website source code including HTML, CSS, JS, Images, Fonts & Assets into a ZIP file instantly.**
+> **🌐 Powerful FastAPI based Website Source Downloader that downloads HTML, CSS, JS, Images & Assets into a ZIP archive instantly.**
 
 </div>
 
@@ -25,13 +26,13 @@
 
 <div align="center">
 
-# 🌟 About Project
+# 🌟 About WEB-2-ZIP
 
 </div>
 
-**WebSource Downloader API** is a powerful FastAPI based tool that downloads website source code and packages everything into a ZIP archive automatically.
+**WEB-2-ZIP** is a high-performance website source downloader API built using **FastAPI**, **AioHTTP**, and **AsyncIO**.
 
-It supports:
+It downloads website source code including:
 
 - HTML
 - CSS
@@ -41,13 +42,15 @@ It supports:
 - Media Files
 - JSON/XML Assets
 
+and automatically compresses everything into a downloadable ZIP archive.
+
 Perfect for:
 
-- 🌐 Website Backup
-- 📦 Source Archiving
-- 🧪 Frontend Testing
-- 📚 Learning Website Structure
-- ⚡ Fast Source Extraction
+- 🌐 Website Backups
+- 📦 Source Code Archiving
+- 📚 Learning Frontend Structure
+- 🧪 Testing Websites Offline
+- ⚡ Fast Website Cloning
 
 ---
 
@@ -65,8 +68,8 @@ Perfect for:
 + ⚡ AsyncIO + AioHTTP Powered
 + ☁️ Vercel Compatible
 + 📱 Termux Compatible
-+ 🧹 Auto Cleanup System
 + 🔗 tmpfiles.org Upload Support
++ 🧹 Auto Cleanup System
 + 💻 Beginner Friendly API
 ```
 
@@ -79,7 +82,7 @@ Perfect for:
 </div>
 
 ```bash
-websource-downloader/
+WEB-2-ZIP/
 │
 ├── api.py
 ├── requirements.txt
@@ -98,9 +101,9 @@ websource-downloader/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/websource-downloader.git
+git clone https://github.com/abbasofficaldevs/WEB-2-ZIP.git
 
-cd websource-downloader
+cd WEB-2-ZIP
 ```
 
 ---
@@ -137,7 +140,7 @@ uvloop
 python api.py
 ```
 
-Server Runs On:
+Server Starts On:
 
 ```bash
 http://127.0.0.1:3648
@@ -241,7 +244,7 @@ curl "http://127.0.0.1:3648/zip?url=https://example.com"
 
 ---
 
-## Deploy
+## Deploy Command
 
 ```bash
 npm i -g vercel
@@ -291,3 +294,4 @@ Made with FastAPI & AsyncIO
 ### 📢 Updates: @abkidz
 
 </div>
+````1
